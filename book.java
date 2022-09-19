@@ -14,6 +14,8 @@ public class book {
                 new Bok(1, "lokesh", "of 2 states", 2007,"fiction"),
                 new Bok(2, "llll", "1122", 2007,"fiction"),
                 new Bok(3, "oooo", "33234", 2007, "fiction")
+                new Bok(4, "llll", "1122", 2007,"fiction"),
+                new Bok(5, "oooo", "33234", 2007, "fiction")
         );
         return list;
     }
